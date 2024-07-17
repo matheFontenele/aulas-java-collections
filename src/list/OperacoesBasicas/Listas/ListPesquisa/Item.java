@@ -1,4 +1,4 @@
-package list.OperacoesBasicas;
+package list.OperacoesBasicas.Listas.ListPesquisa;
 
 public class Item {
     private String nome;
