@@ -16,7 +16,7 @@ public class CarrinhoDeCompras {
         carrinho.add(new Item(nome, preco, quantidade));
     }
 
-    //Metodo para remover itens do carrinho
+    //Metodo para remover itens do carrinho pelo nome
     public void removerItem(String nome){
         List<Item> removerItens = new ArrayList<>();
 
